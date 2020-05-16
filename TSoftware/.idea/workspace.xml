@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1729ab6b-7ddb-42df-93ed-f85e240461f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bvqHrw6tPPP97LZmFmXTu6gE0B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_Integrales.Test">
+    <configuration name="Unittests for test_Integrales.Test" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="TSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\majda\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Integrales.Test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Integrales.Test.test_DERIVATIVE_Constant_f" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Integrales.Test.test_DERIVATIVE_Constant_f&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Integrales.Test.test_DERIVATIVE_Default_Value" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Integrales.Test.test_DERIVATIVE_Default_Value&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Integrales.Test.test_INTEGRATION_Unsuccess_method_trapezoidal_vectorized" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Integrales.Test.test_INTEGRATION_Unsuccess_method_trapezoidal_vectorized&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Integrales.Test.test_INTEGRATION_trapezoidal_For_linear_function" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Integrales.Test.test_INTEGRATION_trapezoidal_For_linear_function&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_Integrales.Test.test_integration_method_trapezoidal_vectorized" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="TSoftware" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Integrales.Test.test_integration_method_trapezoidal_vectorized&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for test_Integrales.Test" />
+      <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_DERIVATIVE_Constant_f" />
+      <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_DERIVATIVE_Default_Value" />
+      <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_INTEGRATION_Unsuccess_method_trapezoidal_vectorized" />
+      <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_INTEGRATION_trapezoidal_For_linear_function" />
+      <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_integration_method_trapezoidal_vectorized" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_INTEGRATION_Unsuccess_method_trapezoidal_vectorized" />
+        <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_DERIVATIVE_Constant_f" />
+        <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_DERIVATIVE_Default_Value" />
+        <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_integration_method_trapezoidal_vectorized" />
+        <item itemvalue="Python tests.Unittests for test_Integrales.Test.test_INTEGRATION_trapezoidal_For_linear_function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1729ab6b-7ddb-42df-93ed-f85e240461f1" name="Default Changelist" comment="" />
+      <created>1589522829577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589522829577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="0" key="#Unittests_for_test_Integrales.Test" timestamp="1589525394626">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="0" key="#Unittests_for_test_Integrales.Test/0.0.1366.728@0.0.1366.728" timestamp="1589525394626" />
+    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589523334030">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="12" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589523334030" />
+    <state x="363" y="0" key="#pytest_in_test_Integrales.py" timestamp="1589523277677">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="0" key="#pytest_in_test_Integrales.py/0.0.1366.728@0.0.1366.728" timestamp="1589523277677" />
+    <state width="1339" height="208" key="GridCell.Tab.0.bottom" timestamp="1589629007614">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589629007614" />
+    <state width="1339" height="208" key="GridCell.Tab.0.center" timestamp="1589629007593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589629007593" />
+    <state width="1339" height="208" key="GridCell.Tab.0.left" timestamp="1589629007592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589629007592" />
+    <state width="1339" height="208" key="GridCell.Tab.0.right" timestamp="1589629007594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589629007594" />
+    <state width="1339" height="208" key="GridCell.Tab.1.bottom" timestamp="1589629007665">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589629007665" />
+    <state width="1339" height="208" key="GridCell.Tab.1.center" timestamp="1589629007657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589629007657" />
+    <state width="1339" height="208" key="GridCell.Tab.1.left" timestamp="1589629007644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589629007644" />
+    <state width="1339" height="208" key="GridCell.Tab.1.right" timestamp="1589629007664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1339" height="208" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589629007664" />
+    <state x="75" y="0" key="SettingsEditor" timestamp="1589523255258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="75" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589523255258" />
+    <state x="310" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1589629472531">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589629472531" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_Integrales.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
